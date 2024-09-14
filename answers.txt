@@ -1,0 +1,7 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to many fields, like finance, healthcare, etc.
+In healthcare, redictive analytics can be used to identify patients at high risk of developing 
+chronic conditions, such as diabetes or heart disease. By analyzing patterns in patient data, healthcare 
+providers can implement preventative measures or early interventions, potentially reducing 
+hospitalizations and improving overall health outcomes.
