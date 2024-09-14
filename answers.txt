@@ -16,3 +16,11 @@ chronic conditions, such as diabetes or heart disease. By analyzing patterns in 
 providers can implement preventative measures or early interventions, potentially reducing 
 hospitalizations and improving overall health outcomes.
 
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merge combines the changes from different branches into a single 
+branch which helps in preserving the history of both brances whereas rebasing
+moves commits from one branch onto another, which results in a linear and 
+cleaner history but it alters the commit history.
