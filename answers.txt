@@ -1,0 +1,8 @@
+Q1: Why might be consider using git?
+
+Answer: Git is important since it allows 
+efficient and collaborative version control.
+It helps in tracking changes, managing different 
+versions of code so that everyone can work on 
+some particular code.
+
