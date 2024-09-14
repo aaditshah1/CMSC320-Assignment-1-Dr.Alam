@@ -24,3 +24,10 @@ Answer: Merge combines the changes from different branches into a single
 branch which helps in preserving the history of both brances whereas rebasing
 moves commits from one branch onto another, which results in a linear and 
 cleaner history but it alters the commit history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in data analysis, data visualization,
+and statistical modeling. I also will get to learn and be familiar with
+important python libraries like Pandas and Numpy and learn more about 
+machine learning techniques which will be very useful for me in my career.
